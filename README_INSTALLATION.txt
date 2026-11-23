@@ -24,3 +24,8 @@ freshkystartup@gmail.com
 
 FONCTIONNEMENT CONSERVÉ
 Le site est statique : aucun serveur, paiement ou envoi automatique de commande. Les commandes et fiches ajoutées restent dans le navigateur. Les stocks sont des exemples. Les données locales existantes sont conservées sur la même adresse ; un changement d’adresse peut changer leur accessibilité dans le navigateur.
+
+VERSION MODERNE ANIMÉE
+Les photos et le logo sont également intégrés dans index.html : aucun chemin externe nécessaire pour leur affichage.
+Accueil avec bouteilles flottantes, perspective 3D au mouvement de souris, orbites et apparitions au défilement. Effets automatiquement réduits selon les préférences d’accessibilité.
+Remplacez votre ancien index.html par celui de ce ZIP. Les anciens contenus et produits sont conservés.
